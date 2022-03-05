@@ -35,7 +35,7 @@ header nav {
 header nav ul {
     list-style-type: none;
 }
-/* Updated ".header to header semantic tag */
+/* Updated ".header/div to header/nav semantic tag */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -74,8 +74,8 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
+/* Replaced non semantic tag ".benefits" with semantic tag aside  */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
