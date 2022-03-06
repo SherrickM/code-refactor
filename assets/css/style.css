@@ -191,6 +191,7 @@ aside {
     font-size: 36px;
 } */
 /* Replaced non semantic tag ".footer" with semantic tag footer  */
+
 footer {
     padding: 30px;
     clear: both;
